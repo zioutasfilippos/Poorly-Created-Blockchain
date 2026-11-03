@@ -1,0 +1,41 @@
+{
+ "Blocks": [
+  {
+   "index": 0,
+   "header": "",
+   "timeStamp": "2026-11-02T10:11:48.7190941+02:00",
+   "data": {
+    "batteryID": "",
+    "voltage": 0,
+    "temperature": 0,
+    "stateOfCharge": 0,
+    "productionStamp": "0001-01-01T00:00:00Z",
+    "status": ""
+   },
+   "hash": "0000251d91eb077ff4aee288624089f658e6328afd28a7ec6ef56c5c79fd7765",
+   "previousHash": "",
+   "nonce": 1842,
+   "difficulty": 3,
+   "miningDuration": 0
+  },
+  {
+   "index": 1,
+   "header": "",
+   "timeStamp": "2026-11-02T10:13:57.9073608+02:00",
+   "data": {
+    "batteryID": "1",
+    "voltage": 50,
+    "temperature": 50,
+    "stateOfCharge": 50,
+    "productionStamp": "2026-11-02T10:13:57.9073608+02:00",
+    "status": "InService"
+   },
+   "hash": "000a95976356cebd1eb88f41cae0f9387186c3bb6e7066ddb3274b865950e452",
+   "previousHash": "0000251d91eb077ff4aee288624089f658e6328afd28a7ec6ef56c5c79fd7765",
+   "nonce": 1607,
+   "difficulty": 3,
+   "miningDuration": 2474900
+  }
+ ],
+ "Difficulty": 3
+}
